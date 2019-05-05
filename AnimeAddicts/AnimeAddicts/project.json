@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "Microsoft.NETCore.App": {
+      "type": "platform",
+      "version": "3.0.0-preview4-27615-11"
+    },
+    "publishOptions": {
+      "include": [
+        "build"        
+      ]
+    }
+  }
+}
